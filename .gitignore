@@ -1,0 +1,11 @@
+.vscode
+.idea
+*.pyc
+*__pycache__
+*.csv
+*.xlsx
+
+*.png
+*.pth
+*params.json
+*.rf
