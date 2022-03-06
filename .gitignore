@@ -9,3 +9,6 @@
 *.pth
 *params.json
 *.rf
+
+!data/landing/*
+!data/mid_range/*
